@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/svg-gradient-editor/precache-manifest.ef8b640455014050386e0875f3cb0002.js"
+  "/svg-gradient-editor/precache-manifest.7635c654d2b9ad3fc313917536663110.js"
 );
 
 workbox.clientsClaim();
