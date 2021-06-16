@@ -13,7 +13,7 @@
     "@types/react-dom": "^16.0.11",
     "chroma-js": "^2.0.2",
     "file-saver": "^2.0.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^3.2.1",
     "immutability-helper": "^2.9.0",
     "lodash.throttle": "^4.1.1",
     "nanoid": "^2.0.0",
